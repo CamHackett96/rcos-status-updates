@@ -6,12 +6,14 @@
 
 ## This Week's Plan
 
-> This we need to decide whether we are combining groups or not 
+> This we need to decide whether we are combining groups or not
 Adding a starter code to get the project running.
 Addtionally we will do mock ups and wire framing
 
 ## Anything Blocking?
 
 > We lost a group member.
+
+> also need to work out what to do now
 
 ## Notes
